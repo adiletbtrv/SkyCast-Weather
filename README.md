@@ -2,11 +2,11 @@
 
 A premium, modern weather dashboard built with React, Tailwind CSS, and Axios. Designed for clarity, aesthetics, and ease of use with adaptive atmospheric backgrounds.
 
-<img width="1911" height="909" alt="SkyCast Preview 1" src="https://via.placeholder.com/1911x909/222/fff?text=SkyCast+Weather+Preview+1" />
+<img width="5760" height="3240" alt="Screen Shot 2025-12-16 at 12 29 42" src="https://github.com/user-attachments/assets/80ec3cf9-1eb9-4c8e-b580-cddddce4442d" />
 
-<img width="1919" height="908" alt="SkyCast Preview 2" src="https://via.placeholder.com/1919x908/333/fff?text=SkyCast+Weather+Preview+2" />
+<img width="5760" height="3240" alt="Screen Shot 2025-12-16 at 12 30 09" src="https://github.com/user-attachments/assets/a9e4eef2-da52-487f-a68e-cd78ca7b0192" />
 
-<img width="1909" height="905" alt="SkyCast Preview 3" src="https://via.placeholder.com/1909x905/444/fff?text=SkyCast+Weather+Preview+3" />
+<img width="5760" height="3240" alt="Screen Shot 2025-12-16 at 12 30 46" src="https://github.com/user-attachments/assets/a1fe399f-0c17-4c5a-9e68-28eb08f98460" />
 
 ## Features
 
