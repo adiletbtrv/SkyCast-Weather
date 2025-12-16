@@ -1,0 +1,5 @@
+{
+  "name": "SkyCast Weather",
+  "description": "A modern, responsive weather application using OpenWeatherMap API with dynamic backgrounds and glassmorphism UI.",
+  "requestFramePermissions": []
+}
