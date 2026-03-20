@@ -1,3 +1,5 @@
+export type TempUnit = 'metric' | 'imperial';
+
 export interface WeatherData {
   name: string;
   dt: number;

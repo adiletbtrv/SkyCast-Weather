@@ -10,20 +10,23 @@
       "DOM.Iterable"
     ],
     "skipLibCheck": true,
-    "types": [
-      "node"
-    ],
     "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
     "isolatedModules": true,
     "moduleDetection": "force",
     "allowJs": true,
     "jsx": "react-jsx",
+    "noEmit": true,
     "paths": {
       "@/*": [
         "./*"
       ]
-    },
-    "allowImportingTsExtensions": true,
-    "noEmit": true
-  }
+    }
+  },
+  "include": [
+    "src",
+    "src/hooks",
+    "src/components",
+    "src/services"
+  ]
 }
